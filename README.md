@@ -24,10 +24,7 @@
       <ul>
         <li><a href="#Feito Com">Feito Com</a></li>
       </ul>
-      <ul>
-      </ul>
     </li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contato">Contato</a></li>
   </ol>
 </details>
