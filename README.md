@@ -1,13 +1,5 @@
 <a id="readme-top"></a>
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Unlicense License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -54,11 +46,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Este é um projeto simples, feito em python para testar meus conhecimentos de aluno de 1° semestre de Sistemas de Informação. ele não é lá grandes coisas, porém, serviu de um desafio para mim testar minhas habilidades!
-
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">De volta ao topo</a>)</p>
 
@@ -68,7 +56,7 @@ Use the `BLANK_README.md` to get started.
 
 This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
 
-* [![Python][Pyton3]]
+* Python3
 
 <p align="right">(<a href="#readme-top">De volta ao Topo</a>)</p>
 
@@ -83,7 +71,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 
 
 <!-- CONTACT -->
-## Contact
+## Contato
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - viniciuszanona@gmail.com
 
