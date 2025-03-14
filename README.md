@@ -20,24 +20,17 @@
   <summary>Tabela de Conteudos</summary>
   <ol>
     <li>
-      <a href="#about-the-project">Sobre o Projeto</a>
+      <a href="#Sobre o Projeto">Sobre o Projeto</a>
       <ul>
-        <li><a href="#built-with">Feito Com</a></li>
+        <li><a href="#Feito Com">Feito Com</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Começo!</a>
       <ul>
-        <li><a href="#prerequisites">Pré-requisitos</a></li>
-        <li><a href="#installation">Installation</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#contato">Contato</a></li>
   </ol>
 </details>
 
