@@ -66,7 +66,7 @@ Distributed under the Unlicense License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contato
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - viniciuszanona@gmail.com
+Carlos Vinicius Garcia Zanonato - [@carloszanona](https://www.instagram.com/carloszazona) - viniciuszanona@gmail.com
 
 Project Link: [https://github.com/ViniciusZanonato/Conversor-de-Temperatura](https://github.com/ViniciusZanonato/Conversor-de-Temperatura)
 
