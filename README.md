@@ -47,7 +47,7 @@ Este é um projeto simples, feito em python para testar meus conhecimentos de al
 
 ### Feito Com
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Este projeto foi feito inteiramente:
 
 * Python3
 
