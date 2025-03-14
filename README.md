@@ -34,9 +34,8 @@
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
 
-Este é um projeto simples, feito em python para testar meus conhecimentos de aluno de 1° semestre de Sistemas de Informação. ele não é lá grandes coisas, porém, serviu de um desafio para mim testar minhas habilidades!
-
-<p align="right">(<a href="#readme-top">De volta ao topo</a>)</p>
+  Este é um projeto simples, feito em python para testar meus conhecimentos de aluno de 1° semestre de Sistemas de Informação. ele não é lá grandes coisas, porém, serviu de um desafio para mim testar minhas habilidades!
+  A funcionalidade d script é simples! Ele é um conversor simples de temperatura (Celsius, Fahrenheit e Kelvin) em que você introduz as temperaturas e recebe o valor na outra temperatura selecionada.
 
 
 
@@ -46,7 +45,6 @@ Este projeto foi feito inteiramente:
 
 * Python3
 
-<p align="right">(<a href="#readme-top">De volta ao Topo</a>)</p>
 
 
 <!-- CONTACT -->
@@ -56,7 +54,6 @@ Carlos Vinicius Garcia Zanonato - [@carloszanona](https://www.instagram.com/carl
 
 Project Link: [https://github.com/ViniciusZanonato/Conversor-de-Temperatura](https://github.com/ViniciusZanonato/Conversor-de-Temperatura)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 [Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
